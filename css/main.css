@@ -8,7 +8,7 @@
     align-items: center;
 
 
-    background: url(../img/background.png);
+    background: url(../img/main-cover.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -23,7 +23,7 @@
     border-radius: 30px;
     position: relative;
     overflow: hidden;
-    background: #ffffffa4;
+    background: #ffffff63;
     backdrop-filter: blur(8px);
     -webkit-backdrop-filter: blur(8px);
 }
